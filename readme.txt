@@ -1,5 +1,9 @@
 Playing with testing software cucumber and JavaScript.
 
+1. Edit *.feature file(s)
+2. Add actual test in /step_definitions
+3. npm test
+
 Thank you, 
 Sergiy (Sam/Sergio) Klokov
 
