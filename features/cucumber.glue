@@ -1,0 +1,6 @@
+{
+  "cucumber.glue": [
+    "features/**/*.js",
+    "features/**/*.ts",
+  ]
+}
